@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kuldeeprajbhar24⚡
 - 👀 I’m a Fullstack java Developer⚡👀
 - 🌱 I’m currently learning Spring Boot framework....
-- 📫 How to reach me  Insta :kuldeeprajbhar24 , Mobile No : 7208105683  👀
+- 📫 How to reach me Email: kuldeeprajbhar008@gmail.com, Mobile No : 7208105683, Insta :kuldeeprajbhar24 ,  👀
 - ⚡ Fun fact: Work hard,Learn and Earn 👀⚡😄...
 - 👀 Ram Ram Ji 👀
