@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kuldeeprajbhar24⚡
-- 👀 I’m a Fullstack Developer at SlashRtc ⚡👀
+- 👀 Fullstack Developer at SlashRtc 🧑‍💻⚡👀
 - 🌱 I’m currently learning Spring Boot framework....
 - 📫 How to reach me Email: kuldeeprajbhar008@gmail.com, Mobile No : 7208105683, Insta :kuldeeprajbhar24 ,  👀
 - ⚡ Fun fact: Work hard,Learn and Earn 👀⚡😄...
